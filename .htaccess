@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^(index)$ $1.html [NC,L]
+RewriteRule ^(gallery)$ $1.html [NC,L]
